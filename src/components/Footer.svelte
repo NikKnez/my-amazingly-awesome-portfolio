@@ -6,6 +6,18 @@
         Connect with me &darr;
     </p>
     <div class="flex flex-col gap-4 items-center justify-center">
+        <p>
+            <b class="pr-2">Resume</b>
+            <a href="https://github.com/NikKnez/resume" target="_blank" class="text-violet-400"
+                >nikola_knezevic<sup class=""
+                    ><span class="text-xs scale-75 pl-0.5"
+                        ><i
+                            class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"
+                        /></span
+                    ></sup
+                ></a
+            >
+        </p>
         <p><b class="pr-2">Email</b> nknezevic07@gmail.com</p>
         <p>
             <b class="pr-2">GitHub</b>
