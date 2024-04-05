@@ -33,9 +33,9 @@
                 "I embarked on a journey of self-learning, delving into the world of coding with a focus on Java, Spring Boot, and MySQL for backend development. Alongside, I acquired proficiency in Python and familiarity with React for frontend development. Through dedicated practice and exploration, I've cultivated a deep understanding of building robust digital infrastructures. Eager to expand my expertise, I aspire to delve into cloud computing, driven by a passion for innovation and continuous growth.",
         },
         {
-            name: "a product design & UX finatic",
+            name: "a programming enthusiast",
             description:
-                "Carefully crafting and designing amazing user experiences allows me to express and experiment with every morsel of creativity I have. I love the challenge of learning new design concepts and enabling users with amazing online experiences.",
+                "I'm fueled by my passion for coding and the endless possibilities it offers. Embracing each challenge as an opportunity to grow, I'm enthusiastic about mastering new languages and technologies. ",
         },
         {
             name: "an excellent communicator",
