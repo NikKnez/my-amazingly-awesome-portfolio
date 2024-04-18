@@ -17,11 +17,11 @@
             link: "https://github.com/NikKnez/Book_Advisor_Project"
         },
         {
-            name: "JavaQuizMQA",
-            icon: "fa-solid fa-file-invoice",
+            name: "Film Box",
+            icon: "fa-solid fa-film",
             description:
-                "JavaQuizMQA is a JavaFX-based quiz application that allows users to test their knowledge on various programming topics.",
-            link: "https://github.com/NikKnez/JavaQuizMQA"
+                "The Film Box aims to implement an application for managing movies, consisting of a Spring Boot backend application and a React frontend application. The project utilizes OAuth2 (Social Login) for securing both applications.",
+            link: "https://github.com/NikKnez/Film_Box_Project"
         },
     ];
 
@@ -116,12 +116,12 @@
             </Step>
             <Step step={steps[2]}>
                 <p>
-                    JavaQuizzMQA is a <strong class="text-violet-400"
-                        >JavaFX</strong
-                    >
-                    - based desktop application that provides users with the opportunity to test their knowledge of 
-                        Java programming concepts through interactive quizzes. Dive into a world of interactive learning with multiple-choice questions covering a range of programming topics. Receive instant feedback on your answers,
-                        explore detailed explanations, and enhance your coding skills!
+                    The Film Box Project is consisting of a <strong class="text-violet-400"
+                        >Spring Boot</strong
+                    > backend application that exposes a REST API for creating, retrieving, and deleting films. The backend application is secured with JWT access tokens, 
+                    allowing access to secured endpoints only with a valid token, and a
+                    <strong class="text-violet-400" >React</strong> frontend application where users can retrieve information about films. Users with the ADMIN role have access to all secured endpoints, including endpoints to create and delete films. 
+                    The project utilizes <strong class="text-violet-400" >OAuth2 (Social Login)</strong> for securing both applications.
                 </p>
             </Step>
         </div>
