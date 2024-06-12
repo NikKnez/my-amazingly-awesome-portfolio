@@ -8,7 +8,7 @@
     <div class="flex flex-col gap-4 items-center justify-center">
         <p>
             <b class="pr-2">Resume</b>
-            <a href="https://drive.google.com/file/d/1UxPgXIBjSVpdJs-oO0PybE1lOq5zRVV0/view?usp=drive_link" target="_blank" class="text-violet-400"
+            <a href="https://drive.google.com/file/d/1BfheGb2k15YZjWFnwybJWFXKcMlI1zFj/view?usp=drive_link" target="_blank" class="text-violet-400"
                 >nikola_knezevic<sup class=""
                     ><span class="text-xs scale-75 pl-0.5"
                         ><i
