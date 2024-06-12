@@ -7,14 +7,21 @@
             icon: "fa-solid fa-laptop-code",
             description:
                 "The Exam Portal, a Full Stack application built with Spring Boot and React JS, serves as a comprehensive solution for universities to manage online examinations for students. The system consists of three main modules: Admin, Teacher, and Student.",
-            link: "https://github.com/NikKnez/Exam_Portal_Project"
+            link: "https://examportalonline.netlify.app/"
         },
         {
             name: "Book Advisor",
             icon: "fa-solid fa-book-open-reader",
             description:
                 "The system consists of both frontend and backend components, with the frontend built using React.js and the backend powered by Flask.",
-            link: "https://github.com/NikKnez/Book_Advisor_Project"
+            link: "https://bookadvisor.netlify.app/"
+        },
+        {
+            name: "IntervjuPiO",
+            icon: "fa-solid fa-clipboard-question",
+            description:
+                "IntervjuPiO, a Full Stack application built with Spring Boot and React JS, allows viewing and downloading documents with questions and answers for interviews.",
+            link: "https://intervjupio.netlify.app/"
         },
         {
             name: "Film Box",
@@ -100,7 +107,7 @@
                     The Exam Portal is a Full Stack application built with <strong
                         class="text-violet-400"
                         >Spring Boot, React JS, MySql and Docker!</strong
-                    > The Exam Portal using Spring Boot & React JS is a Full Stack application that can be used by any University to handle the Student Online Examination.
+                    > The Exam Portal using Spring Boot & React JS is a Full Stack application that can be used by any University to handle the Student Online Examination. For testing you can use Role: Admin, User: admin@demo.com, Password: admin1234.
                 </p>
             </Step>
             <Step step={steps[1]}>
@@ -111,10 +118,19 @@
                     <strong class="text-violet-400">React.js</strong
                     >
                     & <strong class="text-violet-400">MongoDB</strong> web application that offers personalized book recommendations based on users reading preferences.
-                    Leveraging data from the New York Times Bestseller lists and integrating with the Google Books API, Book Advisor provides a seamless experience for discovering new reads. 
+                    Leveraging data from the New York Times Bestseller lists and integrating with the Google Books API, Book Advisor provides a seamless experience for discovering new reads. For testing you can use User: admin, Password: Admin-123.
                 </p>
             </Step>
             <Step step={steps[2]}>
+                <p>
+                    IntervjuPiO is an application that allows viewing and downloading documents with questions and answers for interviews. 
+                    The application consists of a <strong
+                        class="text-violet-400"
+                        >Spring Boot, React and MySql.</strong
+                    > This is a simple application to assist with learning for technical interviews. The files are available in both Serbian and English.
+                </p>
+            </Step>
+            <Step step={steps[3]}>
                 <p>
                     The Film Box Project is consisting of a <strong class="text-violet-400"
                         >Spring Boot</strong
