@@ -24,11 +24,11 @@
             link: "https://intervjupio.netlify.app/"
         },
         {
-            name: "Film Box",
+            name: "Algorithm Visualizer",
             icon: "fa-solid fa-film",
             description:
-                "The Film Box aims to implement an application for managing movies, consisting of a Spring Boot backend application and a React frontend application. The project utilizes OAuth2 (Social Login) for securing both applications.",
-            link: "https://github.com/NikKnez/Film_Box_Project"
+                "Algorithm Visualizer is an interactive web application designed to help users understand and visualize the functioning of various algorithms.",
+            link: "https://algvisual.netlify.app/"
         },
     ];
 
@@ -132,12 +132,11 @@
             </Step>
             <Step step={steps[3]}>
                 <p>
-                    The Film Box Project is consisting of a <strong class="text-violet-400"
-                        >Spring Boot</strong
-                    > backend application that exposes a REST API for creating, retrieving, and deleting films. The backend application is secured with JWT access tokens, 
-                    allowing access to secured endpoints only with a valid token, and a
-                    <strong class="text-violet-400" >React</strong> frontend application where users can retrieve information about films. Users with the ADMIN role have access to all secured endpoints, including endpoints to create and delete films. 
-                    The project utilizes <strong class="text-violet-400" >OAuth2 (Social Login)</strong> for securing both applications.
+                    Algorithm Visualizer is an interactive web application designed to help users understand and 
+                    visualize the functioning of various algorithms. 
+                    Built with a modern tech stack including<strong class="text-violet-400">Spring Boot</strong>and
+                    <strong class="text-violet-400" >React</strong>, this project serves as a 
+                    comprehensive educational tool and a showcase of efficient software architecture.
                 </p>
             </Step>
         </div>
