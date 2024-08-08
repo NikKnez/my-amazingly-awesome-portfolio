@@ -25,7 +25,7 @@
         },
         {
             name: "Algorithm Visualizer",
-            icon: "fa-solid fa-film",
+            icon: "fa-solid fa-chart-column",
             description:
                 "Algorithm Visualizer is an interactive web application designed to help users understand and visualize the functioning of various algorithms.",
             link: "https://algvisual.netlify.app/"
@@ -134,7 +134,7 @@
                 <p>
                     Algorithm Visualizer is an interactive web application designed to help users understand and 
                     visualize the functioning of various algorithms. 
-                    Built with a modern tech stack including<strong class="text-violet-400">Spring Boot</strong>and
+                    Built with a modern tech stack including <strong class="text-violet-400">Spring Boot</strong> and
                     <strong class="text-violet-400" >React</strong>, this project serves as a 
                     comprehensive educational tool and a showcase of efficient software architecture.
                 </p>
