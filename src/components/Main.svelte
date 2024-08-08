@@ -10,11 +10,11 @@
             link: "https://examportalonline.netlify.app/"
         },
         {
-            name: "Book Advisor",
-            icon: "fa-solid fa-book-open-reader",
+            name: "Algorithm Visualizer",
+            icon: "fa-solid fa-chart-column",
             description:
-                "The system consists of both frontend and backend components, with the frontend built using React.js and the backend powered by Flask.",
-            link: "https://bookadvisor.netlify.app/"
+                "Algorithm Visualizer is an interactive web application designed to help users understand and visualize the functioning of various algorithms.",
+            link: "https://algvisual.netlify.app/"
         },
         {
             name: "IntervjuPiO",
@@ -24,11 +24,11 @@
             link: "https://intervjupio.netlify.app/"
         },
         {
-            name: "Algorithm Visualizer",
-            icon: "fa-solid fa-chart-column",
+            name: "Book Advisor",
+            icon: "fa-solid fa-book-open-reader",
             description:
-                "Algorithm Visualizer is an interactive web application designed to help users understand and visualize the functioning of various algorithms.",
-            link: "https://algvisual.netlify.app/"
+                "The system consists of both frontend and backend components, with the frontend built using React.js and the backend powered by Flask.",
+            link: "https://bookadvisor.netlify.app/"
         },
     ];
 
@@ -112,13 +112,11 @@
             </Step>
             <Step step={steps[1]}>
                 <p>
-                    Book Advisor is a Full Stack <strong
-                        class="text-violet-400">Python-Flask</strong
-                    >,
-                    <strong class="text-violet-400">React.js</strong
-                    >
-                    & <strong class="text-violet-400">MongoDB</strong> web application that offers personalized book recommendations based on users reading preferences.
-                    Leveraging data from the New York Times Bestseller lists and integrating with the Google Books API, Book Advisor provides a seamless experience for discovering new reads. For testing you can use User: admin, Password: Admin-123.
+                    Algorithm Visualizer is an interactive web application designed to help users understand and 
+                    visualize the functioning of various algorithms. 
+                    Built with a modern tech stack including <strong class="text-violet-400">Spring Boot</strong> and
+                    <strong class="text-violet-400" >React</strong>, this project serves as a 
+                    comprehensive educational tool and a showcase of efficient software architecture.
                 </p>
             </Step>
             <Step step={steps[2]}>
@@ -126,17 +124,19 @@
                     IntervjuPiO is an application that allows viewing and downloading documents with questions and answers for interviews. 
                     The application consists of a <strong
                         class="text-violet-400"
-                        >Spring Boot, React and MySql.</strong
+                        >Spring Boot, React and MongoDB.</strong
                     > This is a simple application to assist with learning for technical interviews. The files are available in both Serbian and English.
                 </p>
             </Step>
             <Step step={steps[3]}>
                 <p>
-                    Algorithm Visualizer is an interactive web application designed to help users understand and 
-                    visualize the functioning of various algorithms. 
-                    Built with a modern tech stack including <strong class="text-violet-400">Spring Boot</strong> and
-                    <strong class="text-violet-400" >React</strong>, this project serves as a 
-                    comprehensive educational tool and a showcase of efficient software architecture.
+                    Book Advisor is a Full Stack <strong
+                        class="text-violet-400">Python-Flask</strong
+                    >,
+                    <strong class="text-violet-400">React.js</strong
+                    >
+                    & <strong class="text-violet-400">MongoDB</strong> web application that offers personalized book recommendations based on users reading preferences.
+                    Leveraging data from the New York Times Bestseller lists and integrating with the Google Books API, Book Advisor provides a seamless experience for discovering new reads. For testing you can use User: admin, Password: Admin-123.
                 </p>
             </Step>
         </div>
