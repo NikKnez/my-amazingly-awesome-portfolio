@@ -14,11 +14,20 @@
                         ><i
                             class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"
                         /></span
-                    ></sup
-                ></a
-            >
+                    ></sup>
+            </a>
         </p>
-        <p><b class="pr-2">Email</b> nknezevic07@gmail.com</p>
+        <p>
+            <b class="pr-2">Email</b> 
+            <a href="mailto:nknezevic07@gmail.com" target="_blank" class="text-violet-400"
+                >nknezevic07@gmail.com<sup class=""
+                    ><span class="text-xs scale-75 pl-0.5"
+                        ><i
+                            class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"
+                        /></span
+                    ></sup>
+            </a>
+        </p>
         <p>
             <b class="pr-2">GitHub</b>
             <a href="https://github.com/NikKnez" target="_blank" class="text-violet-400"
@@ -27,9 +36,8 @@
                         ><i
                             class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"
                         /></span
-                    ></sup
-                ></a
-            >
+                    ></sup>
+            </a>
         </p>
         <p>
             <b class="pr-2">LinkedIn</b>
@@ -39,9 +47,8 @@
                         ><i
                             class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"
                         /></span
-                    ></sup
-                ></a
-            >
+                    ></sup>
+            </a>
         </p>
     </div>
 </footer>
