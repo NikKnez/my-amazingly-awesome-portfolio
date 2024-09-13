@@ -175,6 +175,7 @@
                 </div>
             {/each}
         </div>
+        <!--
         <h5 class={" text-2xl sm:text-3xl font-semibold text-center poppins "}>
             The <span class="text-violet-400">Complete</span> Package
         </h5>
@@ -242,5 +243,6 @@
             <p>Scroll to see more &rarr;</p>
         </div>
         <p class="mx-auto">So why not invest?</p>
+    -->
     </section>
 </main>
